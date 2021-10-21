@@ -1,14 +1,31 @@
-
+/* Off-Platform Project: Excursion */
 body {
     font-family: Verdana;
-    padding-left: 10px;
-    padding-right: 10px;
     background-color: black;
+    color: white;
+    text-align: center;
 }
 h1 {
     font-size: 50px;
     font-weight: normal;
-    color: white;
-    text-align: center;
 }
-
+.downloadexcursion {
+    font-size: 16px;
+    color: aquamarine;
+    cursor: pointer;
+}
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+p {
+    color: gray;
+    font-size: 21px;
+}
+footer {
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+    padding-bottom: 15px;
+    padding-right: 25px;
+}
